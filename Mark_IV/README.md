@@ -1,5 +1,5 @@
-#Ultracortex IV
+# Ultracortex IV
 
-Currently Under Development
+Head to the [Ultracortex Mark IV Product Guide](http://docs.openbci.com/Headware/01-Ultracortex-Mark-IV) for more information.
 
-The frame nodes and Mech Parts (OCTABOLT, OCTANUT, spring casing, and electrode holder) in the Mark IV concept directory are scaled to 75% (in the x and y axes) of the Mark III equivalent parts.
+![image](MarkIV-FINAL/Photos/UCM4-Product-2.JPG)
